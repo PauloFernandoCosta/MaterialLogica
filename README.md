@@ -1,7 +1,7 @@
 ![Lógica](https://img.shields.io/badge/L%C3%B3gica-1.0-blue)
 ![Build Passing](https://img.shields.io/badge/build-passing-yellow)
 
-# Material Logica
+# Material Lógica
 Material de Lógica de Programação
 
 ## O que é Lógica?
